@@ -1,5 +1,4 @@
 # svm-pca
-The repo is a practical approach towards understanding how SVM's and PCA's work by doing the tasks written in PDF file
 
 Task 1: EigenFaces
 “Eigenfaces” is the general name given to a dataset of face images after applying PCA to the images. Eigenfaces are the Principal Components for the dataset visualized as images. Remember that principal components these are the new axes of the transformed dataset in the directions of maximum variance.
